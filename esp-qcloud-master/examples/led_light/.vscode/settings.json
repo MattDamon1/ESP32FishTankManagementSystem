@@ -1,0 +1,14 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "*.vue": "vue",
+        "*.wpy": "vue",
+        "*.wxml": "html",
+        "*.wxss": "css",
+        "oleddisplay.h": "c",
+        "app_function.h": "c",
+        "light_driver.h": "c"
+    },
+    "cmake.configureOnOpen": false,
+    "idf.portWin": "COM3"
+}
