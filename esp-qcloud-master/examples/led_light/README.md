@@ -16,14 +16,13 @@
 
 视频链接: [link](https://www.csdn.net/).
 
+图片: ![Alt](https://https://github.com/MattDamon1/ESP32FishTankManagementSystem/blob/main/esp-qcloud-master/examples/led_light/public/image/IMG%E5%AE%9E%E7%89%A9%E5%9B%BE_20220715.jpg)
 
 图片: ![Alt](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw)
 
-带尺寸的图片: ![Alt](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw =30x30)
 
 居中的图片: ![Alt](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw#pic_center)
 
-居中并且带尺寸的图片: ![Alt](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw#pic_center =30x30)
 
 当然，我们为了让用户更加便捷，我们增加了图片拖拽功能。
 
