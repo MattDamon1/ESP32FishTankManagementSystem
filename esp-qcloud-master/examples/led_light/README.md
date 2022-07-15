@@ -1,3 +1,4 @@
+
 @[TOC](鱼缸管理系统)
 
 # 欢迎浏览本人项目
@@ -12,18 +13,21 @@
 - 水泵控制:可设置开启水泵的时间段
 - 通过腾讯连连小程序配网、控制
 
+## 硬件资源
+- ESP32_Dev开发模块
+- EC11旋转编码器模块
+- OLED128x64模块
+- DS1302时钟模块
+- EEPROM_24C256模块
+- DS18B20温度传感器
+- G90小舵机
+- 5V继电器 x 2
+
+## 软件编译环境
+- 乐鑫官方ESPIDF编译环境:cd到Tencent_qcloud-master\esp-qcloud-master\examples\led_light进行编译
+
 ## 实物演示视频链接与图片
 
 视频链接: [link](https://www.csdn.net/).
 
-![image](https://github.com/MattDamon1/ESP32FishTankManagementSystem/blob/main/esp-qcloud-master/examples/led_light/public/image/%E5%AE%9E%E7%89%A9%E5%9B%BE.png)
-
-
-
-
-
-
-
-
-
-
+[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-IR2fiISK-1657878907567)(https://github.com/MattDamon1/ESP32FishTankManagementSystem/blob/main/esp-qcloud-master/examples/led_light/public/image/%E5%AE%9E%E7%89%A9%E5%9B%BE.png)]
