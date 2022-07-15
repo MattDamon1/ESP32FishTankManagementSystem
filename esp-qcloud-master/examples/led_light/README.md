@@ -22,6 +22,7 @@
 - DS18B20温度传感器
 - G90小舵机
 - 5V继电器 x 2
+- 开源EDA原理图和PCB工程文件链接:https://oshwhub.com/mattdamon/yu-gang-ji-tong?sharesource
 
 ## 软件编译环境
 - 乐鑫官方ESPIDF编译环境:cd到Tencent_qcloud-master\esp-qcloud-master\examples\led_light进行编译
