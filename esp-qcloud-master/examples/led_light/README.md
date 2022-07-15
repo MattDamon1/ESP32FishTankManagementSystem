@@ -30,4 +30,4 @@
 
 视频链接: [link](https://www.csdn.net/).
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-IR2fiISK-1657878907567)(https://github.com/MattDamon1/ESP32FishTankManagementSystem/blob/main/esp-qcloud-master/examples/led_light/public/image/%E5%AE%9E%E7%89%A9%E5%9B%BE.png)]
+[image](https://github.com/MattDamon1/ESP32FishTankManagementSystem/blob/main/esp-qcloud-master/examples/led_light/public/image/%E5%AE%9E%E7%89%A9%E5%9B%BE.png)
