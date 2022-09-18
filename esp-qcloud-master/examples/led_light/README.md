@@ -29,6 +29,6 @@
 
 ## 实物演示视频链接与图片
 
-视频链接: [link](https://www.csdn.net/).
+视频链接: [link](https://www.bilibili.com/video/BV1ZY4y1P7QF?share_source=copy_web&vd_source=b1b1bbdcdf0d4fd10cddc294b3cb71d5).
 
 ![image](https://github.com/MattDamon1/ESP32FishTankManagementSystem/blob/main/esp-qcloud-master/examples/led_light/public/image/%E5%AE%9E%E7%89%A9%E5%9B%BE.png)
